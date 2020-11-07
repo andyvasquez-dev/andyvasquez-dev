@@ -1,6 +1,6 @@
 <p align="center">Andy Vasquez</p>
 <p align="center">
-  <a href="https:/andyvasquez-dev.com/" rel="nofollow">
+  <a href="https://andydevelops.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" style="max-width:100%;">
   </a>
   <a href="https://www.linkedin.com/in/andy-vasquez-dev/" rel="nofollow">
