@@ -11,6 +11,14 @@
   </a>
 </p>
 <p align="center">
+  <span>Software Engineer </span>
+ <span> | </span>
+   <span> Creator </span>
+  <span> | </span>
+   <span> Problem Solver</span>
+</p>
+
+<p align="center">
 I was taught that nothing is given and everything is earned. In middle school, I had the opportunity to join the Sumo Bots club where I got to code and build sumo bots from scratch to fight other robots, a 12-year-old’s dream. Our perseverance and collaboration led my team and me to win a tournament. It was a testament that hard work and cooperation pays off. Today as a software engineer, I build digital services for businesses in my community who lack an online presence & technical expertise. I’m looking to join your software engineering team, continue to grow, and hopefully one day I can empower other 12-year-olds in my community to pursue a STEM career.
 </p>
 <!--
