@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/andy-vasquez-dev/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" style="max-width:100%;">
   </a>
-  <a href="https://twitter.com/andyvasquez_dev" rel="nofollow">
+<!--   <a href="https://twitter.com/andyvasquez_dev" rel="nofollow">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" style="max-width:100%;">
-  </a>
+  </a> -->
 </p>
 <p align="center">
   <span>Software Engineer </span>
